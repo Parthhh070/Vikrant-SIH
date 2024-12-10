@@ -161,7 +161,7 @@ section.home {
 .home .home-box .content h5 {
     text-transform: uppercase;
     color: var(--white-color);
-    font-size: .9rem;
+    font-size: 1.2rem;
     font-weight: 400;
     margin-bottom: 2rem;
 }
